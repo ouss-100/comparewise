@@ -44,3 +44,5 @@ next-env.d.ts
 
 # Python virtual environment
 scraper/myenv/
+scraper/product_scraper/.env
+
